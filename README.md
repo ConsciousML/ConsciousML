@@ -5,7 +5,7 @@ Hi there :v:,
 I'm Axel. I graduated from Epita in 2018 and I have been passionated with Deep Learning :rocket: since then.
 My greatest satisfaction is to build AI products that improve people’s quality of life :green_heart:.
 
-I have worked both in AI research laboratories as well as in industry environments. I have a very wide array of skillsets in computer science. More specifically, the depth of my knowledge is at its paramount in Deep Learning related fields. Especially in object detection, multi object tracking, object re-identification and pose estimation.
+I have worked both in AI research laboratories as well as in industry environments. I have a wide array of skillsets in computer science. More specifically, the depth of my knowledge is at its paramount in Deep Learning related fields. Especially in object detection, multi object tracking, object re-identification and pose estimation.
 
 I have been maintainer for large scale Python projects. I take a particular attention to detail, especially regarding best practices and code design.
 
