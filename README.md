@@ -1,5 +1,3 @@
-[![Axel Mendoza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConsciousML)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi there :v:,
 
 I'm a Senior MLOps Engineer with 5+ years of experience in building robust and scalable Machine Learning products.
