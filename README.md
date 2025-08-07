@@ -4,10 +4,10 @@ Hi Friend :v:!
 
 # About me
 I'm a Senior MLOps Engineer with 6+ years of experience building production-ML systems.
+
 I write long-form articles on MLOps to help you do the same.
 
 # ConsciousML Blog
-𝗖𝗼𝗻𝘀𝗰𝗶𝗼𝘂𝘀𝗠𝗟 𝗕𝗹𝗼𝗴
 On my [blog](https://wwww.axelmendoza.com), you'll find:
 
 ○ 𝙸𝚗-𝚍𝚎𝚙𝚝𝚑 𝙰𝚛𝚝𝚒𝚌𝚕𝚎𝚜: I aim to simplify complex topics related to MLOps, Software Engineering, Data Engineering, and Machine Learning.
@@ -18,8 +18,7 @@ On my [blog](https://wwww.axelmendoza.com), you'll find:
 
 ○ 𝙿𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕𝚜: Step-by-step guides to help you get started with the best MLOps tools.
 
-𝗪𝗵𝗮𝘁 𝗜 𝗱𝗼 👨‍💻
-
+# What I do
 ○ 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚆𝚛𝚒𝚝𝚒𝚗𝚐: I write long-form articles on MLOps to help you build real-world AI systems. I had the privilege to work for the #1 MLOps blog: Neptune AI. 💪
 
 ○ 𝙼𝙻𝙾𝚙𝚜: I leverage modern MLOps practices to build infrastructures to support AI applications and automate ML workflows.
@@ -29,7 +28,7 @@ On my [blog](https://wwww.axelmendoza.com), you'll find:
 ○ 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐: I have advanced software skills in Python and regularly maintained large-scale ML repositories.
 
 
-𝗖𝗮𝗿𝗲𝗲𝗿 𝗣𝗮𝘁𝗵 🚀
+# My career path
 
 𝟏. 𝙼𝙻 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚎𝚛: Worked as a research scientist on medical imaging and multi-object tracking.
 
@@ -42,7 +41,7 @@ On my [blog](https://wwww.axelmendoza.com), you'll find:
 𝟓. 𝙲𝚘𝚗𝚝𝚎𝚗𝚝 𝙲𝚛𝚎𝚊𝚝𝚘𝚛: I built the 𝗖𝗼𝗻𝘀𝗰𝗶𝗼𝘂𝘀𝗠𝗟 𝗕𝗹𝗼𝗴, where I regularly post in-depth articles on production ML.
 
 
-🤝 𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
-
+# Let's connect!
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/axelmdz/), or [email me](mailto:axelmendoza@hotmail.fr) directly.
+
 I'm always open for a chat and collaborations.
