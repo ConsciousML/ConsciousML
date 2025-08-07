@@ -1,8 +1,12 @@
+![](consciousml-social-banner-centered.png)
+
 Hi Friend :v:!
 
+# About me
 I'm a Senior MLOps Engineer with 6+ years of experience building production-ML systems.
 I write long-form articles on MLOps to help you do the same.
 
+# ConsciousML Blog
 𝗖𝗼𝗻𝘀𝗰𝗶𝗼𝘂𝘀𝗠𝗟 𝗕𝗹𝗼𝗴
 On my [blog](https://wwww.axelmendoza.com), you'll find:
 
