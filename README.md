@@ -16,7 +16,7 @@ On my [blog](https://wwww.axelmendoza.com), you'll find:
 
 𝗪𝗵𝗮𝘁 𝗜 𝗱𝗼 👨‍💻
 
-○ 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚆𝚛𝚒𝚝𝚒𝚗𝚐: I write long-form articles on MLOps to help you build real-world AI systems. I have the privilege to work form the #1 MLOps blog: Neptune AI. 💪
+○ 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚆𝚛𝚒𝚝𝚒𝚗𝚐: I write long-form articles on MLOps to help you build real-world AI systems. I had the privilege to work for the #1 MLOps blog: Neptune AI. 💪
 
 ○ 𝙼𝙻𝙾𝚙𝚜: I leverage modern MLOps practices to build infrastructures to support AI applications and automate ML workflows.
 
