@@ -1,6 +1,8 @@
 # Hi, I'm Axel 👋
 
-My name is Axel Mendoza and I'm a Senior MLOps & Platform Engineer, bridging the gap between Kubernetes and ML. I'm from France, living in Mexico. I build in the open and write about it on [my blog](https://www.axelmendoza.com). You can find me on [LinkedIn](https://www.linkedin.com/in/axelmdz/) or [Reddit](https://www.reddit.com/user/ConsciousML).
+My name is Axel Mendoza. I'm from France, living in Mexico! As a Senior MLOps & Platform Engineer, I'm working at the intersection of Kubernetes and ML.
+I build in the open and write about it on [my blog](https://www.axelmendoza.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/axelmdz/) or [Reddit](https://www.reddit.com/user/ConsciousML).
 
 ## What I'm Working on
 
