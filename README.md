@@ -1,10 +1,6 @@
 # Hi, I'm Axel 👋
 
-[![Blog](https://img.shields.io/badge/-axelmendoza.com-3D8B3D?style=flat-square&logo=rss&logoColor=white)](https://www.axelmendoza.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/axelmdz/)
-[![Reddit](https://img.shields.io/badge/-u/ConsciousML-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/ConsciousML)
-
-My name is Axel Mendoza and I'm a Senior MLOps & Platform Engineer, bridging the gap between Kubernetes and ML. I'm from France, living in Mexico. I build in the open and write about it on [my blog](https://www.axelmendoza.com).
+My name is Axel Mendoza and I'm a Senior MLOps & Platform Engineer, bridging the gap between Kubernetes and ML. I'm from France, living in Mexico. I build in the open and write about it on [my blog](https://www.axelmendoza.com). You can find me on [LinkedIn](https://www.linkedin.com/in/axelmdz/) or [Reddit](https://www.reddit.com/user/ConsciousML).
 
 ## What I'm Working on
 
