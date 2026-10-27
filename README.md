@@ -1,11 +1,10 @@
 # Axel Mendoza
-[![banner](consciousml-social-banner-centered.png)](https://www.axelmendoza.com)
 
 Senior MLOps & Platform Engineer, bridging the gap between Kubernetes and ML. I build in the open and write about it on [my blog](https://www.axelmendoza.com).
 
 ## What I'm Working on
 
-**[EKS Forge](https://github.com/ConsciousML/eks-forge)**: an open-source platform for building and operating Kubernetes on AWS. Fork it, understand it, run it in about a day.
+I'm building [EKS Forge](https://github.com/ConsciousML/eks-forge), an open-source platform for running Kubernetes on AWS that you can fork, understand, and deploy in about a day.
 
 ## Stack
 
