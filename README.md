@@ -38,5 +38,4 @@ I'm building [EKS Forge](https://github.com/ConsciousML/eks-forge), an open-sour
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConsciousML&hide=c,html,jupyter%20notebook,tex,javascript,css,mdx,cuda&langs_count=5&hide_border=true&theme=transparent" alt="Most used languages" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConsciousML&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Axel's GitHub stats" />
